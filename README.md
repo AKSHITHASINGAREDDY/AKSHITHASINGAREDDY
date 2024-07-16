@@ -15,6 +15,6 @@ Tools: Docker, kubernetes, Ansible, AWS, Git, GitHub, Visual Studio Code
 
 LinkedIn            [https://www.linkedin.com/in/akshitha-s-reddy/](https://www.linkedin.com/in/akshitha-s-reddy/)     
 My Project Blog     [https://akshithasingareddy.wixsite.com/2022/blog](https://akshithasingareddy.wixsite.com/2022/blog)  
-email               [akshithasingareddygmail.com]
+email               [akshithasingareddy23@gmail.com]
 
 
