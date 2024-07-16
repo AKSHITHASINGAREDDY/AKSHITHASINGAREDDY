@@ -13,8 +13,8 @@ Data Visualization: Matplotlib, Seaborn, Tableau, Microsoft Excel.
 
 Tools: Docker, kubernetes, Ansible, AWS, Git, GitHub, Visual Studio Code
 
-[LinkedIN](www.linkedin.com/in/akshitha-s-reddy)     
-[My Project Blog Post](https://akshithasingareddy.wixsite.com/2022/blog)  
+LinkedIn [(www.linkedin.com/in/akshitha-s-reddy)](www.linkedin.com/in/akshitha-s-reddy)     
+My Project Blog [https://akshithasingareddy.wixsite.com/2022/blog](https://akshithasingareddy.wixsite.com/2022/blog)  
 email[(akshithasingareddygmail.com)]
 
 
