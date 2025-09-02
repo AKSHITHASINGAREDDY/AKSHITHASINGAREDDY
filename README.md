@@ -1,20 +1,26 @@
-## 📊I am Recent Master's Graduate in Computer Science | Seeking Data Science Opportunities | Passionate Data Enthusiast ready to Drive Data Insights 📈
+## 📊Data Analyst | Healthcare & Financial Analytics | SQL • Python • Tableau • Power BI| Seeking Data Science Opportunities | Passionate Data Enthusiast ready to Drive Data Insights 📈
 
-"As a recent graduate with a Master's in Computer Science, I discovered my passion for data during my studies through courses in SQL, Machine Learning, and Python. I realized how much I love playing with data, experimenting with manipulating and cleaning it, and deriving new insights and future trends. This passion drives me to seek opportunities in Data Science roles such as Data Analyst, Data Scientist, Data Engineer, and Machine Learning Engineer.My experience with SQL, Python, Tableau, and machine learning has equipped me to analyze and manipulate data effectively. I enjoy uncovering trends and insights that drive informed decision-making, predict future outcomes, solve problems, and provide valuable business insights."
+"I’m a Data Analyst with 3+ years of experience turning complex datasets into clear, actionable insights that drive business outcomes. Skilled in SQL, Python, Tableau, Power BI, and advanced Excel, I specialize in uncovering trends, building dashboards, and delivering predictive models that support decision-making at scale.
+
+My background spans healthcare and financial services, where I’ve helped reduce costs, prevent fraud, and improve efficiency by leveraging data to tell a compelling story. I thrive at the intersection of analytics and business strategy — translating numbers into insights that executives and teams can act on.
+
+I’m passionate about using data to solve real-world problems, whether it’s optimizing patient care, reducing operational inefficiencies, or strengthening risk management. Open to opportunities in data analytics, business intelligence, and data-driven consulting."
 
 ##
-Languages: Python, Java, C.
+Programming: Python, R, SQL, VBA
 
-Database Management: Relational (SQL, MySQL, SQLite), Non-Relational (MongoDB).
+ML/Statistics: Regression, Classification, Forecasting, A/B Testing, Predictive Modeling
 
-Libraries: Pandas, NumPy, TensorFlow, Scikit-learn, Keras.
+Visualization: Tableau, Power BI, Excel, Matplotlib, Seaborn
 
-Data Visualization: Matplotlib, Seaborn, Tableau, Microsoft Excel.
+Databases: SQL Server, MySQL, PostgreSQL, Snowflake
 
-Tools: Docker, kubernetes, Ansible, AWS, Git, GitHub, Visual Studio Code
+Other: ETL, Data Cleaning, KPI Development
+
+##
 
 LinkedIn            [https://www.linkedin.com/in/akshitha-s-reddy/](https://www.linkedin.com/in/akshitha-s-reddy/)     
 My Project Blog     [https://akshithasingareddy.wixsite.com/2022/blog](https://akshithasingareddy.wixsite.com/2022/blog)  
-email               [akshithasingareddy23@gmail.com]
+email               [akshithasingareddy0516@gmail.com]
 
 
